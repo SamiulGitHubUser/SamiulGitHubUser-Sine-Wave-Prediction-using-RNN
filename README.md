@@ -4,8 +4,10 @@ Recurrent Neural Network performs well in sequence datasets.
 
 For predicting of sine wave SimpleRNN and LSTM both work nicely.
 
-## Sine Wave 
+### Basic architecture of RNN
+<img src='architecture-rnn.png'/>
 
-<img src='sine_wave.png' width="500" height="600"/>
+### Sine Wave Prediction
+<img src='sine_wave.png'/>
 
 
